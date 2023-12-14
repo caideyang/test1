@@ -1,2 +1,2 @@
 #!/bin/bash
-python /opt/workspace/main.py --epochs=5 --backend=nccl --save-model
+python /opt/workspace/main.py --epochs=20 --backend=nccl --save-model

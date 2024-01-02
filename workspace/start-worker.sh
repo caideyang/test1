@@ -1,2 +1,2 @@
 #!/bin/bash
-/opt/conda/bin/python /opt/workspace/main.py --epochs=50 --batch-size=1024 --backend=nccl 
+python /opt/workspace/main.py --epochs=50 --batch-size=1024 --backend=nccl 
